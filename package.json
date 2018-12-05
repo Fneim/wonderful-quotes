@@ -1,0 +1,19 @@
+{
+  "name": "wonderful-quotes-site",
+  "version": "1.0.0",
+  "description": "using vue ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fneim/wonderful-quotes.git"
+  },
+  "author": "Fargin Neim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fneim/wonderful-quotes/issues"
+  },
+  "homepage": "https://github.com/Fneim/wonderful-quotes#readme"
+}
