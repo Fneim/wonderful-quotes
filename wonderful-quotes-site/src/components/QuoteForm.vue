@@ -28,7 +28,7 @@
   }
 </script>
 
-<style>
+<style scoped>
 #quoteForm {
   width:60%;
   margin:auto;

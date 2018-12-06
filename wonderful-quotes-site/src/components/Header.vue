@@ -13,6 +13,3 @@
     props: ["maxQuotes"]
   }
 </script>
-
-<style>
-</style>

@@ -50,7 +50,7 @@ export default {
 
 </script>
 
-<style>
+<style scoped>
 
 .form-control {
   height: 100px;
