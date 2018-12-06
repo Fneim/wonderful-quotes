@@ -31,9 +31,9 @@ export default {
     newQuote(quote) {
       this.quotes.push(quote);
       if(this.maxQuotes >= 10) {
-        alert("You've run out of space. Delete some quotes to add more.");
+        return alert("You've run out of space. Delete some quotes to add more.");
       } else {
-        this.maxQuotes++;
+        return this.maxQuotes++;
       }
     },
     deleteQuote(key) {
